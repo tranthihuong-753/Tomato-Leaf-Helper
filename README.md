@@ -79,7 +79,25 @@ Các bệnh của cây cà chua trong tập dữ liệu này bao gồm:
 - Tomato_mosaic_virus  
 - Tomato_Yellow_Leaf_Curl_Virus
 
+<h2>CÁCH CHẠY DỰ ÁN</h2>
+
+1. Tải về [Tomato Leaves Dataset ](https://www.kaggle.com/datasets/ashishmotwani/tomato?resource=download)
+
+Lưu vào thư mục /data , giải nén sao cho có dạng 
+
+/data 
+
+│── 📂 train/
+
+│── 📂 test/ 
+
+2. Chạy main.py
+
+3. Hiển thị giao diện thì chèn ảnh lá cây cà chua vào và đợi kết quả. 
+
+
 <h2>🌟 Ví dụ minh họa</h2>
+
 Input ảnh: ảnh lá cà chua chụp thực tế
 
 → Tiền xử lý
