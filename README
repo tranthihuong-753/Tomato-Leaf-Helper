@@ -1,3 +1,17 @@
+<h1>Tomato Leaf Disease Detection Project 🍅</h1>
+
+## 📌 Giới thiệu
+
+Dự án này nhằm xây dựng một hệ thống nhận diện bệnh trên lá cà chua từ ảnh chụp thông qua các thuật toán học máy truyền thống. Hệ thống có khả năng:
+- Tiền xử lý ảnh và trích xuất đặc trưng bằng HOG.
+- Áp dụng giảm chiều với PCA.
+- Huấn luyện và đánh giá nhiều mô hình học máy như SVM, Random Forest, KNN,...
+- Dự đoán ảnh mới thông qua mô hình đã lưu.
+
+## 🗂 Cấu trúc thư mục
+
+
+
 📂 project_ai/
 │── 📂 data/                # Thư mục chứa dữ liệu (hình ảnh, CSV, JSON,...)
 │── 📂 models/              # Lưu trữ mô hình đã huấn luyện
