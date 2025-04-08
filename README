@@ -13,7 +13,19 @@
 │── 📜 requirements.txt     # Danh sách thư viện cần cài đặt
 │── 📜 main.py              # Chương trình chính chạy AI
 │── 📜 README.md            # Mô tả dự án, cách chạy
-│── 📜 .gitignore           # Loại trừ các file không cần thiết khi đẩy lên GitHub
+│── 📜 .gitignore           # Loại trừ các file khônzzg cần thiết khi đẩy lên GitHub
 
 Path download Dataset : https://www.kaggle.com/datasets/ashishmotwani/tomato?resource=download
 
+Các bệnh của cây cà chua trong tập dữ liệu này bao gồm:
+Bacterial_spot  
+Early_blight  
+healthy  
+Late_blight  
+Leaf_Mold  
+powdery_mildew  
+Septoria_leaf_spot  
+Spider_mites Two-spotted_spider_mite  
+Target_Spot  
+Tomato_mosaic_virus  
+Tomato_Yellow_Leaf_Curl_Virus
