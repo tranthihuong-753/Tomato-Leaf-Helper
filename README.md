@@ -53,15 +53,15 @@ Dự án này nhằm xây dựng một hệ thống nhận diện bệnh trên l
 
 <h2>📊 Kết quả mô hình (Accuracy)</h2>
 
-Logistic Regression	0.4073
+Logistic Regression	0.9583
 
-Decision Tree	0.3293
+Decision Tree	0.5876
 
-SVM	0.5689
+SVM	0.9621
 
-Random Forest	0.4160
+Random Forest	0.8526
 
-KNN	0.5050
+KNN	0.9482
 
 <h2>DataSet</h2>
 Path download Dataset : https://www.kaggle.com/datasets/ashishmotwani/tomato?resource=download
