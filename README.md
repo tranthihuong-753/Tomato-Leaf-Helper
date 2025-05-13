@@ -63,6 +63,8 @@ Random Forest	0.8526
 
 KNN	0.9482
 
+! Liên hệ email dhhuongdhlt1@gmail.com để lấy code hoàn chỉnh 
+
 <h2>DataSet</h2>
 Path download Dataset : https://www.kaggle.com/datasets/ashishmotwani/tomato?resource=download
 
